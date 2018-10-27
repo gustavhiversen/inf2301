@@ -1,0 +1,7 @@
+To run the server open the terminal inside of the server folder, then type python3 server.py to execute.
+
+To run the client open the terminal inside of the client folder. then type python3 client.py localhost 8080 to execute.
+Then type: 
+    GET favicon.ico to get that file to the client
+    GET gus.txt to get that file to the client
+    GET images.jpeg to get that file to the client

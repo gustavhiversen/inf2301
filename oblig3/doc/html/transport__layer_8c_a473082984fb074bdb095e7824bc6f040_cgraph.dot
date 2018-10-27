@@ -1,0 +1,9 @@
+digraph "transport_layer_destroy"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node2 [label="transport_layer_destroy",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node2 -> Node3 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="transport_pkg_destroy",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$transport__package_8h.html#ab94004cd7bb18246f87e34bd27d490f7",tooltip="Frees all memory occupeid by the specified transport package."];
+}

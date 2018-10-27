@@ -1,0 +1,5 @@
+<map id="rand_normal_boxmuller" name="rand_normal_boxmuller">
+<area shape="rect" id="node2" href="$randomlib_8h.html#a16dc7adad2182e1bdfce566e638e0966" title="Generates a normally distributed random value value centered around 0.0 (zero)." alt="" coords="209,5,393,32"/>
+<area shape="rect" id="node4" href="$randomlib_8h.html#a514df45a8689955f5ff968ecc7c29396" title="Generates a normally distributed random value value centered around 0.0 (zero)." alt="" coords="211,56,391,83"/>
+<area shape="rect" id="node3" href="$randomlib_8h.html#ab51e6800730d33e456832507d2f7278c" title="Generates a uniformly distributed random value between 0.0 (zero) and 1.0 (inclusive)." alt="" coords="441,31,516,57"/>
+</map>

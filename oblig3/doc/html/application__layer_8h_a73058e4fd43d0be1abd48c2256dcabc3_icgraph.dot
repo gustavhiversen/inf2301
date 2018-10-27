@@ -1,0 +1,9 @@
+digraph "application_layer_init"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node8 [label="application_layer_init",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node8 -> Node9 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node9 [label="osi_stack_init",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$osi_8h.html#aaede8908d48b81065dcf9be92e3f24c8",tooltip="Initializes the specified OSI-stack."];
+}

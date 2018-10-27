@@ -1,0 +1,7 @@
+<map id="network_layer" name="network_layer">
+<area shape="rect" id="node2" href="$structosi__stack.html" title="Implements the osi_stack_t data type." alt="" coords="101,109,180,136"/>
+<area shape="rect" id="node3" href="$structapplication__layer.html" title="Implements the application_layer_t datatype." alt="" coords="264,213,383,240"/>
+<area shape="rect" id="node6" href="$structtransport__layer.html" title="Data structure implementing the transport_layer_t type." alt="" coords="5,213,113,240"/>
+<area shape="rect" id="node4" href="$structapplication__data__node.html" title="Implements the application_data_node_t data type." alt="" coords="241,109,392,136"/>
+<area shape="rect" id="node5" href="$structtick__timer.html" title="Type representing a tick&#45;timer object." alt="" coords="469,109,548,136"/>
+</map>
